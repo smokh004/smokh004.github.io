@@ -28,8 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "PhD Candidate".
-  Open `_config.yml` to edit this text.
+  "PhD Candidate"
 
 # A list of keywords for your blog
 keywords:              []
