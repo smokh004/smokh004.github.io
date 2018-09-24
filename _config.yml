@@ -91,6 +91,11 @@ font:                  Noto Sans, Helvetica, Arial, sans-serif
 font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
+    - scope:
+       path: about.md
+       values:
+         menu: true
+         order: 1
 #   - scope:
 #       path:            hyde
 #     values:
